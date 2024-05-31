@@ -1,4 +1,4 @@
-module github.com/minio/minio
+module github.com/Jazz9/minio-testing
 
 go 1.21
 
